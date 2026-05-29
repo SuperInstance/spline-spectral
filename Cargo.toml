@@ -1,0 +1,6 @@
+[package]
+name = "spline-spectral"
+version = "0.1.0"
+edition = "2021"
+description = "B-splines meet spectral graph theory. Cox-de Boor = Fibonacci for function spaces. Spline smoothing = spectral filtering."
+license = "MIT"
